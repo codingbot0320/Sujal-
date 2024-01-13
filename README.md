@@ -1,4 +1,4 @@
-<h1 align="center">Ich Bin👋 Sujal Fuldevare</h1>
+<h1 align="center">Ich Bin Sujal Fuldevare</h1>
 <h3 align="center">I am Passionate learner. I am currently working on developing my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbot0320&label=Profile%20views&color=0e75b6&style=flat" alt="codingbot0320" /> </p>
