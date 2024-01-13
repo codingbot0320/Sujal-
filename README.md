@@ -24,6 +24,6 @@
 
 <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingbot0320&show_icons=true&locale=en&layout=compact" alt="codingbot0320" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingbot0320&show_icons=true&locale=en" alt="codingbot0320" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codingbot0320&show_icons=true&locale=en" alt="codingbot0320" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingbot0320&" alt="codingbot0320" /></p>
