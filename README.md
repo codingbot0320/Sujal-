@@ -1,7 +1,7 @@
 <h1 align="center">Ich Bin Sujal Fuldevare</h1>
 <h3 align="center">I am Passionate learner. I am currently working on developing my skills.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/codingbot0320/codingbot0320/assets/156232675/5bdc6572-0df5-492c-8c89-7ab49471860b)gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"?
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbot0320&label=Profile%20views&color=0e75b6&style=flat" alt="codingbot0320" /> </p>
